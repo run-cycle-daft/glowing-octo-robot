@@ -1,2 +1,5 @@
-# glowing-octo-robot
-Serverless Azure
+# glowing-octo-robot  
+Serverless Azure  
+
+## License  
+MIT
