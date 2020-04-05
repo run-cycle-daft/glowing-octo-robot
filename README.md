@@ -10,11 +10,17 @@ git clone [this]
 
 ### Prerequisites
 
-ToDo
+>npm install -g lite-server
+
 
 ### Installing
 
 ToDo
+
+## Run locally
+
+>cd frontend
+>lite-server
 
 ## Running the tests
 
